@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sawwww7.github.io/shop-demo/static/css/main.02fee4ce.css",
+    "main.js": "/sawwww7.github.io/shop-demo/static/js/main.3fc009af.js",
+    "static/media/bg.jpg": "/sawwww7.github.io/shop-demo/static/media/bg.1ec97cf86f257e1dbbca.jpg",
+    "index.html": "/sawwww7.github.io/shop-demo/index.html",
+    "main.02fee4ce.css.map": "/sawwww7.github.io/shop-demo/static/css/main.02fee4ce.css.map",
+    "main.3fc009af.js.map": "/sawwww7.github.io/shop-demo/static/js/main.3fc009af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02fee4ce.css",
+    "static/js/main.3fc009af.js"
+  ]
+}
